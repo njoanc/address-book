@@ -10,3 +10,13 @@
 .contact:hover {
   text-decoration: underline;
 }
+.footer {
+  background-color: #bed6d6;
+  text-align: center;
+}
+
+.footerP {
+  color: rgb(76, 30, 204);
+  font-family: FiraSans-Regular, sans-serif;
+  font-size: 16px;
+}
